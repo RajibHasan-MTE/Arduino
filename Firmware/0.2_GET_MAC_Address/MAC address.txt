@@ -1,0 +1,2 @@
+responder: MAC Address: 40:91:51:FC:13:D8
+Initiator: MAC Address: 3C:71:BF:4C:A4:00
